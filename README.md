@@ -5,4 +5,5 @@ Le lien pour inviter sQuizCord sur votre serveur Discord : https://discord.com/o
 ## Discord
 Rejoins nous sur [le serveur d'sQuizCord](https://discord.gg/mrzBjDRH2y)
 ## Logs
+- 0.0.1 sQuizCord pose maintenant a chaque fois une question différente dans la partie, avant il lui arrivait de poser deux fois la même question voir plusieurs fois
 - 0.0.0 Le bot fait ses premiers pas
