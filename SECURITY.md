@@ -1,7 +1,5 @@
 # Politique de sécurité
 
-## Notre politique de sécurité
-
 Nous nous engageons à maintenir la sécurité de notre projet et nous prenons au sérieux les problèmes de sécurité.
 
 ## Signaler une vulnérabilité
