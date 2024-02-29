@@ -14,3 +14,5 @@ Rejoins nous sur [le serveur d'sQuizCord](https://discord.gg/mrzBjDRH2y)
     Pour fermer la partie qu'on a commencé
 - 0.0.1 sQuizCord pose maintenant a chaque fois une question différente dans la partie, avant il lui arrivait de poser deux fois la même question voir plusieurs fois
 - 0.0.0 Le bot fait ses premiers pas
+## Licence
+[GPL-3](https://github.com/LEMIBANDDEXARI/sQuizCord?tab=GPL-3.0-1-ov-file)
