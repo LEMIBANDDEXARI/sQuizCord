@@ -1,0 +1,52 @@
+[
+    {
+        "category": "Cinéma",
+        "question": "Quel acteur a joué dans le film \"Le loup de Wall Street\" ?",
+        "answer": "Leonardo DiCaprio"
+    },
+    {
+        "category": "Gastronomie",
+        "question": "Quel chef français a été élu \"cuisinier du siècle\" ?",
+        "answer": "Joël Robuchon"
+    },
+    {
+        "category": "Histoire",
+        "question": "Quel empereur romain a construit le Colisée ?",
+        "answer": "Vespasien"
+    },
+    {
+        "category": "Musique",
+        "question": "Quel groupe de rock a chanté \"Stairway to Heaven\" ?",
+        "answer": "Led Zeppelin"
+    },
+    {
+        "category": "Sport",
+        "question": "Quel sport de raquette se joue avec une balle jaune ?",
+        "answer": "Tennis"
+    },
+    {
+        "category": "Mathématiques",
+        "question": "Combien font 7 + 5 ?",
+        "answer": "12"
+    },
+    {
+        "category": "Jeux vidéo",
+        "question": "Quel est le jeu vidéo le plus vendu de tous les temps ?",
+        "answer": "Minecraft"
+    },
+    {
+        "category": "Histoire",
+        "question": "Qui inventa la machine à vapeur ?",
+        "answer": "James Watt"
+    },
+    {
+        "category": "Musique",
+        "question": "Combien de membres composent le groupe de rock \"Queen\" ?",
+        "answer": "4"
+    },
+    {
+        "category": "Animaux",
+        "question": "Quel est le plus grand animal terrestre ?",
+        "answer": "L'éléphant"
+    }
+]
