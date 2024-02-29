@@ -1,9 +1,11 @@
 # sQuizCord
 Jouez à sQuiz.gg sur Discord.
 # Installer
-...
-## Lien d'invitation
-Le lien pour inviter sQuizCord sur votre serveur Discord : https://discord.com/oauth2/authorize?client_id=1209056688326578208&permissions=2147552256&scope=bot+applications.commands
+- Invitez sQuizCord sur votre serveur en utilisant ce lien :https://discord.com/oauth2/authorize?client_id=1209056688326578208&permissions=2147552256&scope=bot+applications.commands
+- Jouez
+# Pour construire votre propre sQuizCord
+- Clonez le code sur votre ordinateur avec `https://github.com/LEMIBANDDEXARI/sQuizCord.git`
+- ...
 ## Discord
 Rejoins nous sur [le serveur d'sQuizCord](https://discord.gg/mrzBjDRH2y)
 ## Logs
