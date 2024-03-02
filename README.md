@@ -9,7 +9,7 @@ Jouez à sQuiz.gg sur Discord.
 - ...
 ## Discord
 Rejoins nous sur [le serveur d'sQuizCord](https://discord.gg/mrzBjDRH2y)
-## Logs
+## Logs des modifications
 - 0.1.1
   - Ajout de la commande rejoindre <br/>
     Pour rejoindre une partie
