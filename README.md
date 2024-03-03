@@ -10,6 +10,13 @@ Jouez à sQuiz.gg sur Discord.
 ## Discord
 Rejoins nous sur [le serveur d'sQuizCord](https://discord.gg/mrzBjDRH2y)
 ## Logs des modifications
+- 0.2.1
+  - ajout du rôle game-master
+    - seul le game-master peut /start une partie
+    - seulement un joueur peut être game-master
+  - ajout du rôle en jeu
+  - /end met fin aux parties en cours
+  - /partir enlève le rôle en jeu aux joueurs
 - 0.1.1
   - Ajout de la commande rejoindre <br/>
     Pour rejoindre une partie
